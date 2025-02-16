@@ -1,0 +1,536 @@
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"error","message":"Erro ao iniciar o servidor: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\Carlean\\Downloads\\news_api\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Carlean\\Downloads\\news_api\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at async startServer (C:\\Users\\Carlean\\Downloads\\news_api\\index.js:162:5)"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.xxxxx.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.xxxxx.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.xxxxx.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.xxxxx.mongodb.net","level":"error","message":"Erro ao iniciar o servidor: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.xxxxx.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"error","message":"Erro ao conectar ao MongoDB, tentando novamente em 5s..."}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"error","message":"Erro ao conectar ao MongoDB, tentando novamente em 5s..."}
+{"level":"error","message":"Erro ao conectar ao MongoDB, tentando novamente em 5s..."}
+{"level":"error","message":"Erro ao conectar ao MongoDB, tentando novamente em 5s..."}
+{"level":"warn","message":"MongoDB desconectado"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /noticias"}
+{"level":"info","message":"POST /noticiasapplication/json=Content-Type"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /noticias"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"error","message":"Erro ao conectar ao MongoDB:"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"warn","message":"MongoDB desconectado"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"error","message":"Erro ao conectar ao MongoDB:"}
+{"level":"error","message":"Tentando novamente em 5s..."}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB reconectado"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"GET /api/news?q=brasil&language=pt&sortBy=publishedAt"}
+{"level":"info","message":"GET /api/news?q=brasil&language=pt&sortBy=publishedAt"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"error","message":"Erro ao conectar ao MongoDB:"}
+{"level":"error","message":"Tentando novamente em 5s..."}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"warn","message":"MongoDB desconectado"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"error","message":"Erro ao conectar ao MongoDB:"}
+{"level":"error","message":"Tentando novamente em 5s..."}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: production"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB reconectado"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: development"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB..."}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando em http://localhost:3000"}
+{"level":"info","message":"Ambiente: production"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"Ambiente: production"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"Ambiente: production"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"Ambiente: production"}
+{"level":"info","message":"Iniciando servidor..."}
+{"level":"info","message":"Porta configurada: 3000"}
+{"level":"info","message":"Tentando conectar ao MongoDB com URI:"}
+{"level":"info","message":"MongoDB conectado com sucesso"}
+{"level":"info","message":"Servidor rodando na porta 3000"}
+{"level":"info","message":"Ambiente: production"}

@@ -1,0 +1,41 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "API de notícias com Express e MongoDB",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "predev": "node scripts/clear-port.js",
+    "dev": "nodemon --ignore 'logs/*' --trace-warnings index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.7.0",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.0.0",
+    "mongodb": "^6.13.0",
+    "mongoose": "^7.0.3",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Carlean <carleancaxias@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlean1/news_api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Carlean1/news_api/issues"
+  },
+  "homepage": "https://github.com/Carlean1/news_api#readme"
+}

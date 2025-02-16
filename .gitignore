@@ -1,0 +1,40 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de build
+/dist
+/build
+/coverage
+
+# Arquivos temporários
+/tmp
+.tmp/
+*.tmp
+
+# Render
+.render-buildpacks/
