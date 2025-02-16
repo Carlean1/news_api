@@ -174,13 +174,18 @@ const connectWithRetry = async () => {
     
     await mongoose.connect(process.env.MONGO_URI, {
       serverSelectionTimeoutMS: 10000,
-      retryWrites: true
+      retryWrites: true,
+      ssl: true,
+      tlsAllowInvalidCertificates: false,
+      tls: true,
+      tlsCAFile: false,
     });
     
     logger.info("MongoDB conectado com sucesso");
   } catch (err) {
     logger.error("Erro ao conectar ao MongoDB:", err.message);
-    process.exit(1);  // Encerra o processo se não conseguir conectar
+    logger.error("Tentando novamente em 5s...");
+    setTimeout(connectWithRetry, 5000);
   }
 };
 
